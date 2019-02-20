@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Orianna</title>
-    <link>https://example.com/posts/</link>
+    <link>https://roninqa.github.io/blogtest2/posts/</link>
     <description>Recent content in Posts on Orianna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Wed, 20 Feb 2019 10:58:31 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://roninqa.github.io/blogtest2/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://example.com/posts/my-first-post/</link>
+      <link>https://roninqa.github.io/blogtest2/posts/my-first-post/</link>
       <pubDate>Wed, 20 Feb 2019 10:58:31 -0500</pubDate>
       
-      <guid>https://example.com/posts/my-first-post/</guid>
+      <guid>https://roninqa.github.io/blogtest2/posts/my-first-post/</guid>
       <description>Hello, World! I hope this works!</description>
     </item>
     
